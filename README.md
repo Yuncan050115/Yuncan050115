@@ -2,6 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuncan050115)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuncan050115)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuncan050115)](https://github.com/anuraghazra/github-readme-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yuncan050115)
